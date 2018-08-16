@@ -1,1 +1,0 @@
-python PCA.py $1 $2
